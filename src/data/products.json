@@ -1,0 +1,783 @@
+[
+  {
+    "id": 1,
+    "name": "Plestle & Montar T-shirt",
+    "price": 9.99,
+    "description": "Gently used stylish t-shirts for casual wears.",
+    "stockQuantity": 5,
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "imageUrl": "asset/men -Plestle & Montar T-shirt.jpg",
+    "keywords": ["casual", "t-shirt", "cotton", "men", "t-shirts", "Nike"]
+  },
+  {
+    "id": 2,
+    "name": "Blue Hoodie",
+    "price": 15.00,
+    "description": "Gentle used blue 100% cotton hoodie, prefect for cold weather",
+    "stockQuantity": 5,
+    "category": "men",
+    "subcategory": "Hoodie",
+    "imageUrl": "asset/men-blue-hoodie.jpg",
+    "keywords": ["blue", "cotton", "hoodie", "men", "shirt", "cold"]
+  },
+  {
+    "id": 3,
+    "name": "Black Pants",
+    "price": 17.00,
+    "description": "Gentle used black soot office pants.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "Pants",
+    "imageUrl": "asset/men-pants1.jpg",
+    "keywords": ["black", "pants", "office", "men", "soot", "cotton"]
+  },
+  {
+    "id": 4,
+    "name": "Baggy Jeans",
+    "price": 30.00,
+    "description": "Light Wash ripped jeans, prefect for casual wear.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "Pants",
+    "imageUrl": "asset/men-jeans1.jpg",
+    "keywords": ["jeans", "pants", "ripped", "men", "casual", "baggy", "light"]
+  },
+  {
+    "id": 5,
+    "name": "Hawaii T-Shirt",
+    "price": 10.00,
+    "description": "Gently used stylish t-shirts in hawaii designs.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "imageUrl": "asset/men-hawaii-shirt.jpg",
+    "keywords": [
+      "t-shirt",
+      "pattern",
+      "men",
+      "casual",
+      "fashion",
+      "hawaii"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Blue Football Jersey",
+    "price": 10.00,
+    "description": "Gently used stylish Jersey.",
+    "stockQuantity": 10,
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "imageUrl": "asset/men-jersey.jpg",
+    "keywords": [
+      "t-shirt",
+      "casual",
+      "men",
+      "jersey",
+      "football",
+      "sport"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Elegant Dress",
+    "price": 24.00,
+    "description": "Pre-owned dresses perfect for dinners or wedding.",
+    "stockQuantity": 4,
+    "category": "women",
+    "subcategory": "Dresses",
+    "imageUrl": "asset/women-elegant-dress.jpg",
+    "keywords": [
+      "elegant",
+      "dress",
+      "women",
+      "fashion",
+      "casual",
+      "wedding",
+      "dinner"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Batik Skirt",
+    "price": 22.99,
+    "description": "Pre-owned skirts with batik design.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Skirts",
+    "imageUrl": "asset/women-batik-skirt.jpg",
+    "keywords": [
+      "skirt",
+      "women",
+      "clothing",
+      "fashion",
+      "casual",
+      "batik"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Green Fleece Jacket",
+    "price": 28.00,
+    "description": "Gently used jacket, ideal for outwear and any seasons.",
+    "stockQuantity": 2,
+    "category": "women",
+    "subcategory": "Jacket",
+    "imageUrl": "asset/women-jacket.jpg",
+    "keywords": [
+      "blouse",
+      "women",
+      "clothing",
+      "fashion",
+      "workwear"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Beige Long Pants",
+    "price": 19.00,
+    "description": "Gently used pants in excellent condition, perfect for work or casual wear.",
+    "stockQuantity": 3,
+    "category": "women",
+    "subcategory": "Pants",
+    "imageUrl": "asset/women-beige-pants.jpg",
+    "keywords": [
+      "pants",
+      "shoes",
+      "women",
+      "casual",
+      "work",
+      "beige"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Wool Green Vest",
+    "price": 19.99,
+    "description": "Stylish wool vest, ideal for matching with t-shirt.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Vest",
+    "imageUrl": "asset/women-vest.jpg",
+    "keywords": [
+      "vest",
+      "women",
+      "outerwear",
+      "fashion",
+      "wool",
+      "green"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Black Blazer",
+    "price": 14.00,
+    "description": "Gentle used blazer, ideal for work or formal occasions.",
+    "stockQuantity": 4,
+    "category": "women",
+    "subcategory": "Blazer",
+    "imageUrl": "asset/women-blazer.jpg",
+    "keywords": [
+      "blazer",
+      "women",
+      "clothing",
+      "fashion",
+      "formal",
+      "black"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Summer Dress",
+    "price": 14.00,
+    "description": "Pre-owned cute dresses perfect for the summer season.",
+    "stockQuantity": 3,
+    "category": "kids",
+    "subcategory": "Dress",
+    "imageUrl": "asset/kids-summer-dress.jpg",
+    "keywords": [
+      "dress",
+      "kids",
+      "summer",
+      "cute",
+      "pink",
+      "girl"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Tartin Girl Dress",
+    "price": 10.99,
+    "description": "Prefect dress for casual wear, gently used and loved.",
+    "stockQuantity": 2,
+    "category": "kids",
+    "subcategory": "Dress",
+    "imageUrl": "asset/kids-tartin-dress.jpg",
+    "keywords": [
+      "dress",
+      "cute",
+      "casual",
+      "kid",
+      "girl"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Blue Long Sleeves Shirt",
+    "price": 10.00,
+    "description": "Gently used long sleeves shirt for kids, prefect for formal occasion.",
+    "stockQuantity": 4,
+    "category": "kids",
+    "subcategory": "Shirt",
+    "imageUrl": "asset/kids-shirt.jpg",
+    "keywords": [
+      "shirt",
+      "kids",
+      "formal",
+      "blue",
+      "long",
+      "boy"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Dark Color Trousers",
+    "price": 19.00,
+    "description": "Pre-loved dark color trousers for boys.",
+    "stockQuantity": 4,
+    "category": "kids",
+    "subcategory": "Toys",
+    "imageUrl": "asset/kids-trousers.jpg",
+    "keywords": [
+      "trousers",
+      "kids",
+      "boy",
+      "pants",
+      "dark",
+      "black"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Kids' Cardigan",
+    "price": 24.00,
+    "description": "Cute cotton cardigan suitable for both gender.",
+    "stockQuantity": 5,
+    "category": "kids",
+    "subcategory": "Cardigan",
+    "imageUrl": "asset/kids-cardigan.jpg",
+    "keywords": [
+      "cardigan",
+      "kids",
+      "girl",
+      "boy",
+      "baby",
+      "cotton"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Girl's Trousers",
+    "price": 5.00,
+    "description": "Pre-loved blue trousers for girls.",
+    "stockQuantity": 6,
+    "category": "kids",
+    "subcategory": "Trouser",
+    "imageUrl": "asset/kids-girl-trousers.jpg",
+    "keywords": [
+      "girl",
+      "kids",
+      "trouser",
+      "clothing",
+      "blue"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "FILA Sling Bag",
+    "price": 4.00,
+    "description": "Gently used black FILA sling bag.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Sling-Bag",
+    "imageUrl": "asset/access-sling-bag.jpg",
+    "keywords": [
+      "sling-bag",
+      "black",
+      "fila",
+      "accessory",
+      "bag"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Vintage Sunglasses",
+    "price": 3.99,
+    "description": "Pre-owned vintage sunglasses, prefect use for outdoor activity.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "imageUrl": "asset/access-vintage-sunglasses.jpg",
+    "keywords": [
+      "sunglasses",
+      "black",
+      "men",
+      "women",
+      "accessory",
+      "vintage"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Red Baseball Cap",
+    "price": 8.00,
+    "description": "Gently used red baseball caps, prefect use for casual wear.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Cap",
+    "imageUrl": "asset/access-red-basscap.jpg",
+    "keywords": [
+      "cap",
+      "baseball",
+      "unisex",
+      "accessory",
+      "red",
+      "casual"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "White Vintage Baseball Cap",
+    "price": 12.00,
+    "description": "Gently used white vintage baseball caps, prefect use for casual wear.",
+    "stockQuantity": 5,
+    "category": "Accessories",
+    "subcategory": "Cap",
+    "imageUrl": "asset/access-vintage-basscap.jpg",
+    "keywords": [
+      "cap",
+      "baseball",
+      "unisex",
+      "accessory",
+      "red",
+      "casual"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Leather Strap Watch",
+    "price": 39.00,
+    "description": "Gently used leather strap watch, stylish and functional.",
+    "stockQuantity": 4,
+    "category": "Accessories",
+    "subcategory": "Watch",
+    "imageUrl": "asset/access-watch.jpg",
+    "keywords": [
+      "watch",
+      "leather",
+      "strap",
+      "unisex",
+      "accessory"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Modern Black Glasses Frame",
+    "price": 4.00,
+    "description": "Pre-loved modern black glasses frame.",
+    "stockQuantity": 4,
+    "category": "Accessories",
+    "subcategory": "Glasses",
+    "imageUrl": "asset/access-glass-frame.jpg",
+    "keywords": [
+      "glasses",
+      "frame",
+      "unisex",
+      "accessory",
+      "fashion",
+      "black",
+      "modern"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Wine Purple Regular Fit Shirt",
+    "price": 12.00,
+    "description": " A stylish wine purple shirt with a regular fit, perfect for both casual and formal occasions.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "T-shirt",
+    "imageUrl": "asset/men-Wine Purple Regular Fit Shirt.jpg",
+    "keywords": ["casual", "t-shirt", "cotton", "men"]
+  },
+  {
+    "id": 26,
+    "name": "Brown Pants",
+    "price": 15.00,
+    "description": "Gentle used brown soot office pants.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "Pants",
+    "imageUrl": "asset/men-Brown Pants.jpg",
+    "keywords": ["brown", "pants", "office", "men", "soot", "cotton"]
+  },
+  {
+    "id": 27,
+    "name": "Raven Black Strips Jacket",
+    "price": 39.99,
+    "description": "A sleek black jacket with subtle stripes, ideal for a sophisticated, modern look.",
+    "stockQuantity": 5,
+    "category": "men",
+    "subcategory": "Jacket",
+    "imageUrl": "asset/men-Raven Black Stripes Jacket.jpg",
+    "keywords": ["casual", "jacket", "cotton", "men", "new", "soft"]
+  },
+  {
+    "id": 28,
+    "name": "Grey Slim Fit Pants",
+    "price": 20.00,
+    "description": "Smart grey pants with a slim fit, offering a tailored and contemporary silhouette.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "Pants",
+    "imageUrl": "asset/men-Grey Slim Fit Pants.jpg",
+    "keywords": ["slim", "pants", "ripped", "men", "casual", "fit", "light"]
+  },
+  {
+    "id": 29,
+    "name": "Baby Pink Hoodie",
+    "price": 25.00,
+    "description": "A cozy hoodie in soft baby pink, combining comfort and casual charm.",
+    "stockQuantity": 5,
+    "category": "men",
+    "subcategory": "Hoodie",
+    "imageUrl": "asset/men-Baby Pink Hoodie.jpg",
+    "keywords": ["pink", "cotton", "hoodie", "men", "shirt", "cold"]
+  },
+  {
+    "id": 30,
+    "name": "Dark Grey Pants",
+    "price": 20.00,
+    "description": "Versatile dark grey pants designed for a comfortable and polished appearance.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "Pants",
+    "imageUrl": "asset/men-Dark Grey Pants.jpg",
+    "keywords": ["grey", "pants", "ripped", "men", "casual", "fit", "light"]
+  },
+  {
+    "id": 31,
+    "name": "Brown Hoodie",
+    "price": 25.00,
+    "description": "Gentle used brown 100% cotton hoodie, prefect for cold weather",
+    "stockQuantity": 5,
+    "category": "men",
+    "subcategory": "Hoodie",
+    "imageUrl": "asset/men-Brown Hoodie.jpg",
+    "keywords": ["brown", "cotton", "hoodie", "men", "shirt", "cold"]
+  },
+  {
+    "id": 32,
+    "name": "Green Regular Fit Long Sleeve Top",
+    "price": 18.00,
+    "description": "A classic green long-sleeve top with a regular fit, great for everyday wear.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "Long Sleeve Top",
+    "imageUrl": "asset/men-Green Regular Fit Long Sleeve Top.jpg",
+    "keywords": ["casual", "long sleeve", "cotton", "men"]
+  },
+  {
+    "id": 33,
+    "name": "White Seashell T-Shirt",
+    "price": 10.00,
+    "description": "Gently used stylish t-shirts in seashell designs.",
+    "stockQuantity": 4,
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "imageUrl": "asset/men-White Seashell T-Shirt.jpg",
+    "keywords": [
+      "t-shirt",
+      "pattern",
+      "men",
+      "casual",
+      "fashion",
+      "natural"]
+  },
+  {
+    "id": 34,
+    "name": "Lime Green Long Skirt",
+    "price": 16.99,
+    "description": "Vibrant lime green skirt with a flowing design, perfect for elegant and casual styling.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Skirts",
+    "imageUrl": "asset/women-Lime Green Long Skirt.jpg",
+    "keywords": [
+      "skirt",
+      "women",
+      "clothing",
+      "fashion",
+      "casual",
+      "long"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Spruce Long Sleeve Blouse",
+    "price": 7.99,
+    "description": "Pre-owned chic spruce green blouse with long sleeves, adding a touch of sophistication to your outfit.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Blouse",
+    "imageUrl": "asset/women-Spruce Long Sleeve Blouse.jpg",
+    "keywords": [
+      "top",
+      "women",
+      "clothing",
+      "fashion",
+      "casual",
+      "long",
+      "blouse"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Daisy White Lace Kebaya Top",
+    "price": 24.99,
+    "description": "Pre-love delicate white lace kebaya top, exuding grace and traditional charm.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Top",
+    "imageUrl": "asset/women-Daisy White Lace Kebaya Top.jpg",
+    "keywords": [
+      "top",
+      "women",
+      "clothing",
+      "fashion",
+      "casual",
+      "light",
+      "lace"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Tortilla Brown Lace Kebaya Top",
+    "price": 24.99,
+    "description": "Warm brown lace kebaya top, perfect for blending elegance with tradition.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Top",
+    "imageUrl": "asset/women-Tortilla Brown Laces Kebaya Top.jpg",
+    "keywords": [
+      "top",
+      "women",
+      "clothing",
+      "fashion",
+      "casual",
+      "light",
+      "lace"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Dark Brown Batik Kurung Skirt",
+    "price": 16.99,
+    "description": "Pre-owned beautiful crafted dark brown batik skirt, ideal for cultural or formal occasions.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Skirts",
+    "imageUrl": "asset/women-Brown Batik Kurung Skirt.jpg",
+    "keywords": [
+      "skirt",
+      "women",
+      "clothing",
+      "fashion",
+      "casual",
+      "long"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Navy Blue Embrioded Floral Top",
+    "price": 24.99,
+    "description": "A stylish navy blue top adorned with intricate floral embroidery for a refined and artistic look.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Top",
+    "imageUrl": "asset/women-Navy Blue Embrioded Floral Top.jpg",
+    "keywords": [
+      "top",
+      "women",
+      "clothing",
+      "fashion",
+      "casual",
+      "new",
+      "embrioded"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Black & Gery Windbreaker Jacket",
+    "price": 39.99,
+    "description": "A sleek and functional windbreaker jacket in black and grey, combining style with practicality.",
+    "stockQuantity": 5,
+    "category": "women",
+    "subcategory": "Jacket",
+    "imageUrl": "asset/women-Black&Grey Windbreaker Jacket.jpg",
+    "keywords": [
+      "jacket",
+      "women",
+      "clothing",
+      "fashion",
+      "casual",
+      "new",
+      "black"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Gufo Boys Shirt",
+    "price": 15.00,
+    "description": "Pre-loved stylish boys' shirt featuring a trendy design, perfect for casual or semi-formal events.",
+    "stockQuantity": 4,
+    "category": "kids",
+    "subcategory": "Toys",
+    "imageUrl": "asset/kids-Gufo Boys Shirt .jpg",
+    "keywords": [
+      "shirt",
+      "kids",
+      "boy",
+      "new",
+      "light",
+      "grey"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "LilyRose Dress",
+    "price": 15.99,
+    "description": "Charming and feminine dress with delicate details, ideal for special occasions or a graceful everyday look.",
+    "stockQuantity": 2,
+    "category": "kids",
+    "subcategory": "Dress",
+    "imageUrl": "asset/kids-LilyRose Girls Dress.jpg",
+    "keywords": [
+      "dress",
+      "cute",
+      "casual",
+      "kid",
+      "girl",
+      "rose"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Light Sunglasses",
+    "price": 10.99,
+    "description": "Pre-owned Stylish and lightweight sunglasses offering both comfort and UV protection, perfect for sunny days.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Sunglasses",
+    "imageUrl": "asset/access-Light Sunglasses1.jpg",
+    "keywords": [
+      "sunglasses",
+      "casual",
+      "men",
+      "women",
+      "accessory",
+      "light"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Vintage Komatsu Cap",
+    "price": 12.00,
+    "description": "Gently used classic vintage Komatsu cap, adding a retro touch to your casual outfits.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Cap",
+    "imageUrl": "asset/access-Vintage Komatsu.jpg",
+    "keywords": [
+      "cap",
+      "baseball",
+      "unisex",
+      "accessory",
+      "blue",
+      "casual"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Vintage Makita Cap",
+    "price": 12.00,
+    "description": "Gently used  vintage-inspired Makita cap that combines timeless style with a rugged look.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Cap",
+    "imageUrl": "asset/access-Vintage Makita.jpg",
+    "keywords": [
+      "cap",
+      "baseball",
+      "unisex",
+      "accessory",
+      "red",
+      "casual"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "CSR Drak Grey Baseball Cap",
+    "price": 19.00,
+    "description": "Like new..Sleek dark grey baseball cap featuring the CSR logo, ideal for everyday wear.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Cap",
+    "imageUrl": "asset/access-CSR cap.jpg",
+    "keywords": [
+      "cap",
+      "baseball",
+      "unisex",
+      "accessory",
+      "grey",
+      "casual"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Navy Blue VISA Baseball Cap",
+    "price": 15.00,
+    "description": "A versatile navy blue baseball cap, perfect for casual outings or sporting activities.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Cap",
+    "imageUrl": "asset/access-VISA corporate cap.jpg",
+    "keywords": [
+      "cap",
+      "baseball",
+      "unisex",
+      "accessory",
+      "blue",
+      "casual"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Rose Red Glasses Frame",
+    "price": 12.00,
+    "description": "bold rose red glasses frame that adds a vibrant and trendy flair to your eyewear collection.",
+    "stockQuantity": 3,
+    "category": "Accessories",
+    "subcategory": "Glasses",
+    "imageUrl": "asset/access-rose red glasses.jpg",
+    "keywords": [
+      "sunglasses",
+      "casual",
+      "men",
+      "women",
+      "accessory",
+      "light"
+    ]
+  }
+]

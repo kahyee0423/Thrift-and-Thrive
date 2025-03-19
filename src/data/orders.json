@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "price": 29.99,
+        "productName": "Classic T-Shirt",
+        "imageUrl": "asset/men.jpg"
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Tan Tse Han",
+      "email": "tsehantan51@gmail.com",
+      "phone": "+601158580938",
+      "address": "31, Taman High",
+      "city": "Gelugor",
+      "state": "Pulau Pinang",
+      "postalCode": "11700"
+    },
+    "total": 29.99,
+    "status": "PENDING",
+    "orderDate": "2025-01-14T18:36:03.782523700"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "price": 29.99,
+        "productName": "Classic T-Shirt",
+        "imageUrl": "asset/men.jpg"
+      },
+      {
+        "productId": 2,
+        "quantity": 1,
+        "price": 79.99,
+        "productName": "Denim Jeans",
+        "imageUrl": "asset/men.jpg"
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Lal Liii",
+      "email": "lall@gmail.com",
+      "phone": "+60123333333",
+      "address": "31, Taman High",
+      "city": "Gelugor",
+      "state": "Putrajaya",
+      "postalCode": "11700"
+    },
+    "total": 109.98,
+    "status": "PENDING",
+    "orderDate": "2025-01-17T00:39:07.285780700"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "price": 29.99,
+        "productName": "Nike T-Shirt",
+        "imageUrl": "asset/men.jpg"
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Tan  Tse Han",
+      "email": "tsehantan51@gmail.com",
+      "phone": "+601158580938",
+      "address": "123, Taman High",
+      "city": "Gelugor",
+      "state": "Kuala Lumpur",
+      "postalCode": "11700"
+    },
+    "total": 29.99,
+    "status": "PENDING",
+    "orderDate": "2025-01-18T11:02:24.428971600"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "price": 29.99,
+        "productName": "Nike T-Shirt",
+        "imageUrl": "asset/men.jpg"
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Tan  Tse Han",
+      "email": "tsehantan51@gmail.com",
+      "phone": "+601158580938",
+      "address": "123, Taman High",
+      "city": "Gelugor",
+      "state": "Johor",
+      "postalCode": "11700"
+    },
+    "total": 29.99,
+    "status": "PENDING",
+    "orderDate": "2025-01-18T13:53:22.120752800"
+  }
+]
