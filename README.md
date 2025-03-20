@@ -1,5 +1,5 @@
 ## 💻 Contributors: 
-<br>Hor Kah Yee (@kahyee0423)
+Hor Kah Yee (@kahyee0423)
 <br>Tan Tse Han (@tsehan51)
 <br>Padma Pireeyaa A/P Soundra Rajan (@Pireeyaa)
 <br>Tan Mei Wei (@MeiWeii)
